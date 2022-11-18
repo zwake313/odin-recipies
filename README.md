@@ -1,2 +1,2 @@
-# odin-recipies
+# odin-recipes
 recipe website practice 
